@@ -1,0 +1,19 @@
+{
+  "name": "todo_project",
+  "version": "1.0.0",
+  "description": "todo_project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrscorrigan/angular.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrscorrigan/angular/issues"
+  },
+  "homepage": "https://github.com/mrscorrigan/angular#readme"
+}
