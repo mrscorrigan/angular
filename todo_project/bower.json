@@ -1,0 +1,17 @@
+{
+  "name": "todo_project",
+  "description": "todo_project",
+  "main": "index.js",
+  "authors": [
+    "scorrigan"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
